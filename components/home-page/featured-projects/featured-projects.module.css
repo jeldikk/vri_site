@@ -1,0 +1,24 @@
+.featured_projects{
+    height: 80vh;
+}
+
+
+.top_ribbon{
+    height: 20vh;
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.title{
+    font-size: 2rem;
+    color: brown;
+    font-weight: bold;
+}
+
+
+.bottom_ribbon{
+    height: 20vh;
+    background-color: indianred;
+}

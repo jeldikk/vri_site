@@ -1,0 +1,38 @@
+.landing_section{
+    margin-top: -75px;
+}
+
+.landing_wrapper{
+    position: relative;
+}
+  
+.imageContainer{
+    position: relative;
+    width: 100%;
+    height: 95vh;
+}
+  
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    opacity: 0.3;
+    width: 100%;
+    height: 95vh;
+}
+  
+.textContainer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding-top: 25vh;
+    color: wheat;
+    width: 100%;
+    height: 95vh;
+}
+
+.section_ribbon{
+    height: 5px;
+    background-color: indianred;
+}

@@ -1,0 +1,46 @@
+.services_offered{
+    padding-top: 7rem;
+}
+
+.title_text{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.ruler{
+    width: 15%;
+    border-color: rgb(230, 47, 47);
+    border-width: 3px;
+    
+}
+
+.process_icons{
+    display: flex;
+    justify-content: center;
+}
+
+.process_icons > i{
+    margin: 1rem;
+    font-size: 3rem;
+    /* color: white; */
+    margin: 1.5rem 1rem;
+}
+
+.know_more{
+    border: 1px solid brown;
+    color: brown;
+    padding: 0.5rem 2rem;
+    border-radius: 5px;
+    
+}
+
+.know_more:hover{
+    background-color: gold;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.know_more:active{
+    transform: scale(1.12);
+}

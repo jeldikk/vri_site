@@ -1,0 +1,76 @@
+.landing-textcontent{
+
+}
+.vri_text{
+    text-shadow: 10px 4px indianred;
+    /* margin-top: 1.5rem; */
+    letter-spacing: 1.5rem;
+    margin-bottom: 0.2rem;
+    font-size: 7rem;
+}
+
+.engineering_text{
+    margin-bottom: 2rem;
+}
+
+.small_desc{
+    margin-top: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    font-style: italic;
+}
+
+.explore_button{
+    padding: 1rem 2rem;
+    font-weight: bold;
+    border: 2px solid wheat;
+    margin-bottom: 2rem;
+}
+
+.explore_button:hover{
+    background-color: wheat;
+    color: steelblue;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.explore_button:active{
+    transform: scale(0.95);
+}
+
+.quotation_button{
+    padding: 1rem 2rem;
+    font-weight: bold;
+    border: 2px solid wheat;
+    margin-bottom: 2rem;
+}
+
+.quotation_button:hover{
+    background-color: wheat;
+    color: steelblue;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.quotation_button:active{
+    transform: scale(0.95);
+}
+
+.contact_button{
+    padding: 1rem 2rem;
+    font-weight: bold;
+    border: 2px solid wheat;
+    margin-bottom: 2rem;
+}
+
+.contact_button:hover{
+    background-color: wheat;
+    color: steelblue;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.contact_button:active{
+    transform: scale(0.95);
+}
