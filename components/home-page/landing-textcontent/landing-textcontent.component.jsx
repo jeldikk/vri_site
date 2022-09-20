@@ -20,7 +20,7 @@ function LandingTextContent() {
     <div className={`container ${styles.landing_textcontent}`}>
       <div className="row">
         <div className="col-12 col-md-6">
-          <p className="display-3 fw-bold">We're</p>
+          <p className="display-3 fw-bold">We&apos;re</p>
           <p className={`fw-bold ${styles.vri_text}`}>VRI</p>
           <p className={`display-4 ${styles.engineering_text}`}>
             Engineering pvt ltd

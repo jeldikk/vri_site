@@ -10,6 +10,7 @@ function ServiceCard({ service }) {
           layout="intrinsic"
           width={300}
           height={300}
+          alt={service.name}
         />
       </div>
       <div className="card-body">
