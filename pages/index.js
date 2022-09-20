@@ -2,7 +2,7 @@ import Head from "next/head";
 import FeaturedProjects from "../components/home-page/featured-projects/featured-projects.component";
 import LandingSection from "../components/home-page/landing-section/landing-section.component";
 import ServicesOffered from "../components/home-page/services-offered/services-offered.component";
-import styles from "../styles/home.module.css";
+import styles from "../styles/Home.module.css";
 
 function HomePage() {
   return (

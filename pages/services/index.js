@@ -1,5 +1,5 @@
 import Head from "next/head";
-import styles from "../../styles/services.module.css";
+import styles from "../../styles/Services.module.css";
 
 function ServicesPage() {
   return (

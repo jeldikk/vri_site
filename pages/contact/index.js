@@ -1,5 +1,5 @@
 import Head from "next/head";
-import styles from "../../styles/contact.module.css";
+import styles from "../../styles/Contact.module.css";
 
 function ContactPage() {
   return (
